@@ -1,5 +1,5 @@
 tog = 1
-let diceSound = new Audio('rpg-dice-rolling-95182.mp3')
+let diceSound = new Audio('sl.mp3')
 let winSound = new Audio('winharpsichord-39642.mp3')
 
 
